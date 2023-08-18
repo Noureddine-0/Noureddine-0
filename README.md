@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Noureddine
-- 👀 I’m interested in cryptography and cybersecurity in general
 - 📫 How to reach me :
 - noureddinezf09@gmail.com
 
